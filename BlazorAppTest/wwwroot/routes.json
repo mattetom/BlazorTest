@@ -1,0 +1,11 @@
+{
+  "platformErrorOverrides": [
+    {
+      "errorType": "NotFound",
+      "serve": "/index.html"
+    }
+  ],
+  "mimeTypes": {
+    "custom": "text/html"
+  }
+}
